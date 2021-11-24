@@ -7,7 +7,9 @@ Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22.
 Pri projektni nalogi bom primerjal prebivalstvo po različnih starostnih skupinah glede na zakonski stan po statističnih regijah v Sloveniji. Pogledal bom v kateri regiji je največ porok oziroma ločitev, kje se poročajo najmlajši oz. najstarejši ter podatke za Slovenijo nato še delno primerjal s podatki v nekaterih drugih Evropskih državah. Podatke bom večinoma vzel iz SURSA, nekatere (za druge evropske države) pa tudi iz eurostata.
 
 Viri podatkov:
+
 -https://ec.europa.eu/eurostat/web/main/data/database
+
 -https://pxweb.stat.si/SiStat/sl/Podrocja/Index/100/prebivalstvo
 
 Oris tabel:
